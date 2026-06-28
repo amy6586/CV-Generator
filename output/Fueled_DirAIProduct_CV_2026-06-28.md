@@ -55,17 +55,6 @@ Founded AI advisory practice. Own the full business lifecycle: BD, solution desi
 - Facilitate discovery and coaching sessions with data and AI leaders, translating complex frameworks into business impact
 - Design operating models, roles, and metrics aligning data initiatives with strategic outcomes
 
-### O'Reilly · Live Course Instructor, Data Products & AI Strategy
-**May 2025 – November 2025**
-
-- Designed and led executive live cohort programme on Data Products, Governance, and AI readiness
-- Audience: CDOs, Heads of Data & Analytics, Data & AI Strategists, Product and Engineering Leaders
-
-### Technics Publications · Book Author — Data Products Series
-**June 2025 – January 2026**
-
-- Co-authored multi-volume series on Data Products for CDOs, Data & AI Leaders, Product Leaders, and Engineering Executives (trilogy with Paolo Platter; available: amzn.eu/d/9MMVPiX)
-
 ### BayWa r.e. Global · Senior Data Solutions Program Lead
 **April 2024 – August 2024 · Munich**
 
@@ -128,6 +117,14 @@ Founded AI advisory practice. Own the full business lifecycle: BD, solution desi
 **Universidad Latina de Costa Rica** — Master's degree, Process Management for Digital Transformation (BPM), 2021–2022
 
 **Universidad Latina de Costa Rica** — Information Technology Management for Business, 2013–2017
+
+---
+
+## PUBLICATIONS & COURSES
+
+**Book:** *Building Data Products* (trilogy, co-authored with Paolo Platter) · Technics Publications, 2025–2026 · [amzn.eu/d/9MMVPiX](https://amzn.eu/d/9MMVPiX)
+
+**Live Course:** Data Products & AI Strategy · O'Reilly, May–Nov 2025 · Executive cohort for CDOs, Heads of Data & Analytics, Data & AI Strategists
 
 ---
 
