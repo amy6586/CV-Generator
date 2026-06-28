@@ -53,6 +53,7 @@ Responsible for strategic and operational leadership of the Central Europe Data 
 - Led strategic data & AI transformation initiatives across global clients via readiness assessments, governance operating models, and scalable metadata strategies
 - Designed and implemented modern data governance frameworks (cataloging, federated stewardship, ownership workflows) using Microsoft Purview and AWS-native governance services
 - Developed AI governance frameworks for compliance with EU AI Act, GxP, GDPR, and HIPAA, embedding explainability, risk scoring, and model traceability into enterprise AI practices
+- Led data platform and analytics engagement for a major European omnichannel electronics retailer (Unieuro) — data strategy and enablement across D2C and retail channels [RETAIL — do not name client in output; use "a major European omnichannel electronics retailer"]
 - Drove presales and early-stage engineering engagements: solution proposals, technical architectures, translating governance and AI maturity into delivery roadmaps for RFPs and stakeholder buy-in
 - Delivered keynotes, workshops, and panels at Big Data London, Data Masterclass Europe, and Women in Data & AI
 - Organized and hosted flagship community events: Cosmo Data Summit and the "Data Chronicles" live show
