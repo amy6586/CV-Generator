@@ -41,7 +41,7 @@ Responsible for strategic and operational leadership of the Central Europe Data 
 - Advise C-suite and senior client stakeholders on Data & AI strategy, governance, operating models, and AI readiness; lead strategic discovery workshops to prioritize AI and data initiatives
 - Define and evolve service line offerings, including go-to-market positioning across data modernization, AI strategy, data products, and AI governance
 - Govern engagement quality across the region, identifying misalignments between contracted scope and client expectations before they become delivery failures
-- Coordinate regional bench capacity, allocation, and talent placement across active accounts
+- Coordinate regional bench capacity, allocation, and talent placement across active accounts — responsible for 54 people across Romania, Amsterdam, and Germany
 - Coach and mentor consultants and technical leads in data strategy, data products, AI governance, and stakeholder management
 - Contribute to internal frameworks, accelerators, and methodologies improving delivery consistency and scalability
 - Represent the organization externally through conferences, executive forums, and published thought leadership

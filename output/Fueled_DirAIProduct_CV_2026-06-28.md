@@ -21,7 +21,7 @@ Lead commercial development, client advisory, and service line strategy for Cent
 - Define and evolve service line offerings across data modernisation, AI strategy, data products, and AI governance — own the go-to-market positioning and roadmap
 - Shape and qualify proposals across the pipeline, identifying commercial, staffing, and scope risks before deal closure
 - Run strategic discovery workshops with C-suite and senior stakeholders to prioritise AI and data initiatives
-- Govern engagement quality across the region, ensuring delivery matches contracted scope
+- Govern engagement quality across the region, ensuring delivery matches contracted scope — responsible for 54 people across Romania, Amsterdam, and Germany
 - Coach consultants and technical leads in data strategy, data products, AI governance, and stakeholder management
 - Represent Thoughtworks at external conferences and executive forums; contribute to published thought leadership
 
