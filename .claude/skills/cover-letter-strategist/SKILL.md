@@ -10,7 +10,9 @@ A skill for writing cover letters that feel human, direct, and specific — not 
 ## Golden rules
 
 - Never invent projects, metrics, titles, or responsibilities not in master-cv.md or stated by Amy in the conversation.
-- Voice rules: no em dashes, short sentences, direct and practitioner-grounded, no AI-sounding phrasing or corporate filler.
+- Never use em dashes ( — ) anywhere in output. Use a comma, colon, semicolon, or rewrite the sentence instead. Hard rule, no exceptions.
+- Never name specific clients unless Amy explicitly instructs it for a specific application. Use descriptive alternatives: "a major European bank," "global enterprise accounts," etc.
+- Voice rules: short sentences, direct and practitioner-grounded, no AI-sounding phrasing or corporate filler.
 - A cover letter is not a CV rewrite. It answers: why this company, why this role, why Amy — in that order of specificity.
 - Length: 3–4 tight paragraphs. Never more than one page. Never padding.
 - Always read the JD fully before writing. Pull specific language from the JD to mirror back accurately (not flattery — alignment).

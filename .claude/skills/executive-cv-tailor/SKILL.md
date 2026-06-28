@@ -13,7 +13,9 @@ A skill for producing tailored, evidence-based executive CVs and related materia
 - Never change job titles or dates.
 - If something needed for a strong match isn't in `master-cv.md`, say so and ask — don't guess, don't paper over it.
 - Every claim in the output must trace back to evidence in `master-cv.md` or Amy's direct input.
-- Apply Amy's voice rules throughout: no em dashes, short sentences, direct and practitioner-grounded, no AI-sounding phrasing or corporate filler. Avoid generic high-gloss executive-resume verbs ("architected," "spearheaded," "transformed") unless that specific word is the most accurate, plain description of what happened — precision beats impressiveness.
+- **Never name specific clients in any CV output.** Replace named clients with descriptive alternatives: "a major European bank," "a global financial services firm," "enterprise accounts across financial services and energy," etc. This applies to all named pipeline accounts and named delivery clients unless Amy explicitly instructs otherwise for a specific application.
+- **Never use em dashes ( — ) anywhere in CV output.** Use a comma, colon, semicolon, or rewrite the sentence instead. This is a hard rule with no exceptions.
+- Apply Amy's voice rules throughout: short sentences, direct and practitioner-grounded, no AI-sounding phrasing or corporate filler. Avoid generic high-gloss executive-resume verbs ("architected," "spearheaded," "transformed") unless that specific word is the most accurate, plain description of what happened — precision beats impressiveness.
 
 ## Target roles
 
